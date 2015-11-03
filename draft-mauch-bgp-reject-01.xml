@@ -41,7 +41,8 @@
 
     <area>Routing</area>
     <workgroup>Global Routing Operations</workgroup>
-
+    <keyword>Internet Draft</keyword>
+    <keyword>BGP</keyword>
     <abstract>
            <t>This document defines the default behaviour of a BGP speaker when
             no explicit policy is associated with a BGP peering session.</t>
